@@ -126,7 +126,8 @@
 
         .profession {
             position: relative;
-            top: 13vh;
+            top: 14vh;
+            left: 11vw;
             margin: 2vh 0;
             width: 55vw;
             text-align: center;
@@ -136,9 +137,10 @@
 
           .bio-paragraph {
             position: relative;
-            font-size: 2.5vw !important;
+            top: 20vh;
+            font-size: 2.7vw !important;
             margin: 2vh 0;
-            width: 60vw;
+            width: 80vw;
             text-align: center;
             
           }
