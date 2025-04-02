@@ -9,10 +9,6 @@
 
 }
 
-@media only screen and (min-width: 800px) and (max-width: 1920px) and (min-height: 600px) and (max-height: 1080px) and (orientation: landscape) {
-  
-
-
 body {
     background-color: #C9ECEC; /* Pale mint green background color */
     background-size: 100% 100vh; /* Cover the entire width and height */
@@ -249,4 +245,4 @@ body {
  
 }
 
-}
+
