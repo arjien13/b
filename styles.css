@@ -23,7 +23,7 @@ body {
 }
 .menu {
     position: absolute;
-    top: 2vh;
+    top: 1vh;
     left: 50vw;
     transform: translateX(-50%);
     background-image: linear-gradient(to bottom, #B2FFFC, #ffffff);
