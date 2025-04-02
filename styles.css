@@ -126,7 +126,7 @@ body {
     margin: 0; /* Reset margin */
     padding: 0.5em; /* Use em for padding */
     height: fit-content; /* Set height to fit content */
-    animation: shining-borders 5s infinite;
+    animation: shining-borders 3s infinite;
     }
     @keyframes shining-borders {
     0% {
