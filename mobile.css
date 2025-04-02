@@ -16,6 +16,7 @@
       }
 
       .intro {
+        width: 50vw;
         font-size: 2.5vw;
         text-align: center;
         display: flex;
