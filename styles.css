@@ -253,7 +253,7 @@ body {
 }
 
 #resume-section img {
-  width: 75%;
+  width: 30vw;
   height: auto;
   max-width: 800px; /* adjust this value to your desired width */
   margin: 0 auto;
