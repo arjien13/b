@@ -1,12 +1,12 @@
 @media only screen and (min-width: 360px) and (max-width: 768px){
     .container {
-        width: 85vw;
+        width: 88vw;
         height: 90vh;
         background-color: rgba(0, 0, 0, 0.1);
         border: 0.1vw solid #ddd;
         box-shadow: 0 0 1vh rgba(0,0,0,0.5);
         position: absolute;
-        top: 51vh;
+        top: 53vh;
         left: 50vw;
         transform: translate(-50%, -50%);
         display: flex;
