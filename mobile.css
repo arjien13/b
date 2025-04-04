@@ -148,9 +148,12 @@
           top: 25vh;
           left: 50vw;
           text-align: center;
-          font-size: .1vw;
           padding: 1vh; 
           box-shadow: 0 0 1vh rgba(0, 0, 0, 0.1);
+        }
+
+       .Portfolio-Section p {
+          font-size: .9em; 
         }
         
         .Portfolio-Section h2 {
