@@ -147,10 +147,8 @@
           position: absolute;
           top: 25vh;
           left: 50vw;
-          
-          
           text-align: center;
-          font-size: 1.3vw;
+          font-size: .9vw;
           padding: 1vh; 
           box-shadow: 0 0 1vh rgba(0, 0, 0, 0.1);
         }
