@@ -154,14 +154,7 @@
 
        .Portfolio-Section p{
         font-size: .1vw;
-        text-align: center;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        box-shadow: 0 0 10px rgba(152, 255, 152, 0.9);
-        margin: 0; 
-        padding: 0.5em; 
-        height: fit-content; 
+       
         }
         
         .Portfolio-Section h2 {
