@@ -143,17 +143,18 @@
           
         }
 
+        
         .Portfolio-Section h2 {
           position: relative; /* Add this */
-          top: -23vw; /* Move h2 up */
-          margin-bottom: 1vw;
+          top: -20vw; /* Move h2 up */
+          margin-bottom: 1.3vw;
           font-size: 2vw;
         }
         
         .Portfolio-Section p {
           position: relative; /* Add this */
-          top: -23vw; /* Move p up */
-          transform: scale(1.8); /* Scale the entire element */
+          top: -20vw; /* Move p up */
+          transform: scale(1); /* Scale the entire element */
           padding: 1vh .7vw; /* Adjust padding */
         }
       
