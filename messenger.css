@@ -1,17 +1,7 @@
-
 @media only screen and (min-width: 320px) and (max-width: 375px) and (orientation: portrait) {
-   
-  .Portfolio-Section h2 {
-    position: relative; /* Add this */
-    top: -20vw; /* Move h2 up */
-    margin-bottom: 1vw;
-    font-size: 2vw;
+    @supports (-webkit-overflow-scrolling: touch) and (overflow-scrolling: touch) {
+      .Portfolio-Section p {
+        white-space: pre-wrap;
+      }
+    }
   }
-  
-  .Portfolio-Section p {
-    position: relative; /* Add this */
-    top: -20vw; /* Move p up */
-    transform: scale(.5); /* Scale the entire element */
-    padding: 1vh .7vw; /* Adjust padding */
-  }
-}
