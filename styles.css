@@ -302,15 +302,18 @@ body {
   left: 50vw;
   transform: translate(-50%, -50%);
   text-align: center;
-
-  padding: 1vh; 
-  box-shadow: 0 0 1vh rgba(0, 0, 0, 0.1);
 }
 
 .Portfolio-Section h2 {
-  margin-bottom: 1vh;
-  font-size: 1.2vw;
-  
+  margin-bottom: .6vw;
+  font-size: 1.3vw;
+}
+
+.Portfolio-Section p {
+  font-size: 1vw;
+  transform: scale(1); 
+  box-shadow: 0 0 1vh rgba(0, 0, 0, 0.1);
+  padding: 1vh; 
 }
 
 /********************* PORTFOLIO *********************/
