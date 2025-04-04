@@ -1,0 +1,16 @@
+
+@media only screen and (min-width: 320px) and (max-width: 375px) and (orientation: portrait) {
+   
+  }.Portfolio-Section h2 {
+    position: relative; /* Add this */
+    top: -20vw; /* Move h2 up */
+    margin-bottom: 1vw;
+    font-size: 2vw;
+  }
+  
+  .Portfolio-Section p {
+    position: relative; /* Add this */
+    top: -20vw; /* Move p up */
+    transform: scale(1); /* Scale the entire element */
+    padding: 1vh .7vw; /* Adjust padding */
+  }
