@@ -152,11 +152,17 @@
           box-shadow: 0 0 1vh rgba(0, 0, 0, 0.1);
         }
 
-.Portfolio-Section p {
-  -webkit-text-size-adjust: none;
-  text-size-adjust: none;
-  font-size: 13px;
-}
+       .Portfolio-Section p{
+        font-size: 2.5vw;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 0 0 10px rgba(152, 255, 152, 0.9);
+        margin: 0; 
+        padding: 0.5em; 
+        height: fit-content; 
+        }
         
         .Portfolio-Section h2 {
           margin-bottom: 1vh;
