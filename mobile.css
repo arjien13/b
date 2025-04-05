@@ -181,7 +181,7 @@
 .folder-container h5 {
   position: absolute;
   font-size: .3vh;
-  margin-left: 2.5vw;
+  margin-left: 1vw;
   top: -1vh;
   left: 13vw;
   font-weight: 500;
@@ -201,9 +201,9 @@
 
 .folder-label {
   position: relative;
-  top: -21.3vw;
+  top: -21.4vw;
   left: 5vw;
-  font-size: .5vw;
+  font-size: .4vw;
   font-weight: 400;
   
   
