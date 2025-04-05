@@ -150,6 +150,7 @@
   font-size: 1px !important;
 width: 300px; /* adjust the width to your liking */
   height: 200px; /* adjust the height to your liking */
+  padding: 0;  
 }
       
 /********************* PORTFOLIO *********************/
