@@ -145,13 +145,7 @@
 
   /********************* PORTFOLIO *********************/
         
-.Portfolio-Section {
-  position: absolute;
-  top: 50vh;
-  left: 50vw;
-  transform: translate(-50%, -50%);
-  
-}
+
   .Portfolio-Section p {
   font-size: 1px !important;
 }
