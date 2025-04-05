@@ -177,7 +177,7 @@
    position: absolute;
   flex-direction: column;
   align-items: right;
-  left: 65vw;
+  left: 60vw;
 }
 
 .folder-container h5 {
@@ -218,8 +218,8 @@ a {
 .skills-section {
   position: absolute;
   bottom: 0;
-  left: 50vw;
-  transform: translateX(-50%);
+  
+  
   width: 50vw;
   height: 50vh;
   display: flex;
