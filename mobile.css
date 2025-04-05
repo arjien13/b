@@ -216,8 +216,9 @@ a {
 
 .skills-section {
   position: absolute;
-  top: 35vh;
-  left: -30vw;
+  bottom: 0;
+  left: 50vw;
+  transform: translateX(-50%);
   width: 50vw;
   height: 50vh;
   display: flex;
