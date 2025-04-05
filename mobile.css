@@ -84,7 +84,7 @@
     .footer {
       position: absolute;
       bottom: 0;
-      left: 50%;
+      left: 45%;
       transform: translateX(-50%);
       text-align: center;
       color: #333;
@@ -181,8 +181,8 @@
 
 .folder-container h5 {
   position: absolute;
-  font-size: .3vh;
-  left: -5vw;
+  font-size: .2vh !important;
+  left: -1vw !important;  
   top: -1vh;
   left: 13vw;
   font-weight: 500;
@@ -203,7 +203,7 @@
 .folder-label {
   position: relative;
   top: -19vw;
-  left: 5vw;
+  left: 4vw;
   font-size: .4vw;
   font-weight: 400;
   
