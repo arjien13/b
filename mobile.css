@@ -174,8 +174,10 @@
 }
 
 .folder-row {
+   position: absolute;
   flex-direction: column;
   align-items: right;
+  left: 65vw;
 }
 
 .folder-container h5 {
