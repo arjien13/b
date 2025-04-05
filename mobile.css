@@ -146,8 +146,8 @@
 
         .Portfolio-Section h2{
           position: absolute;
-          top: -5vh !important;
-          left: 40vw;
+          top: -3.5vh !important;
+          left: 42vw;
           transform: translateX(-50%);
         }
 
@@ -167,7 +167,7 @@
   flex-direction: column;
   align-items: center;
   position: absolute;
-  top: 95vh;
+  top: 98vh;
   left: 72vw;
   transform: translate(-50vw, -50vh);
  
