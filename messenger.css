@@ -1,7 +1,0 @@
-@media only screen and (min-width: 320px) and (max-width: 375px) and (orientation: portrait) {
-    @supports (-webkit-overflow-scrolling: touch) and (overflow-scrolling: touch) {
-      .Portfolio-Section p {
-        white-space: pre-wrap;
-      }
-    }
-  }
