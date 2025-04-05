@@ -146,8 +146,8 @@
 
         .Portfolio-Section h2{
           position: absolute;
-          top: -5vh;
-          left: 45vw;
+          top: -3vh;
+          left: 43vw;
           transform: translateX(-50%);
         }
 
@@ -203,8 +203,8 @@
 .folder-label {
   position: relative;
   top: -19vw;
-  left: 4vw;
-  font-size: .4vw;
+  left: 2vw;
+  font-size: .4vw !important;
   font-weight: 400;
   
   
