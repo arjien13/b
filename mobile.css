@@ -167,8 +167,8 @@
   flex-direction: column;
   align-items: center;
   position: absolute;
-  top: 100vh;
-  left: 70vw;
+  top: 95vh;
+  left: 72vw;
   transform: translate(-50vw, -50vh);
  
 }
