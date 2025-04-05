@@ -90,7 +90,8 @@
       color: #333;
       padding: 1vh;
       width: 50vw;
-      font-size: 1vw !important;
+      font-size: .8vw !important;
+      white-space: nowrap;
     }
 
     .bio-section {
@@ -181,7 +182,7 @@
 .folder-container h5 {
   position: absolute;
   font-size: .3vh;
-  margin-left: 1vw;
+  left: 2.5vw;
   top: -1vh;
   left: 13vw;
   font-weight: 500;
@@ -201,7 +202,7 @@
 
 .folder-label {
   position: relative;
-  top: -21.4vw;
+  top: -19vw;
   left: 5vw;
   font-size: .4vw;
   font-weight: 400;
