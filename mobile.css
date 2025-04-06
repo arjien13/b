@@ -17,7 +17,7 @@
 
     .menu {
       position: absolute;
-      top: 2.2vh; /* Increase the top value to move the menu down */
+      top: 2vh; /* Increase the top value to move the menu down */
       left: 50vw;
       transform: translateX(-50%);
       background-image: linear-gradient(to bottom, #B2FFFC, #ffffff);
@@ -136,7 +136,7 @@
         .bio-paragraph {
           position: relative;
           top: 18vh;
-          font-size: 2.5vw !important;
+          font-size: 3vw !important;
           margin: 2vh 0;
           width: 85vw;
           text-align: center;
