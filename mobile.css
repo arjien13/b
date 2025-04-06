@@ -221,6 +221,9 @@ a {
   font-size: 1vw;
 }
 
+  .folder-row:nth-child(2) {
+  margin-top: 0 !important;
+}
 
 
 .skills-section ul {
