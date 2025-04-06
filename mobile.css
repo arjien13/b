@@ -166,19 +166,18 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  gap: 2vh; /* adjust this value to your liking */
 }
 .folder-row {
  display: flex;
   flex-direction: column;
-  align-items: center;
-  height: 25vh; /* adjust this value to your liking */
+  align-items: center
 }
 
 .folder-row a {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  margin-bottom: 5vh;
+  align-items: center
 }
 
 .folder-container h5 {
@@ -197,11 +196,7 @@
   filter: sepia(100%) hue-rotate(120deg) saturate(50%);
 }
 
-.folder-icon {
-  width: 20vw;
-  height: auto;
-  filter: sepia(100%) hue-rotate(120deg) saturate(50%);
-}
+
 
 a {
   text-decoration: none;
