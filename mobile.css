@@ -166,23 +166,18 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  position: absolute;
-  top: 98vh;
-  left: 72vw;
-  transform: translate(-50vw, -50vh);
- 
 }
-
 .folder-row {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-  }
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
   .folder-row a {
-    display: flex;
-    align-items: center;
-    margin-bottom: 10px;
-  }
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 5vh; /* adjust the gap value to your liking */
+}
 
 .folder-container h5 {
   position: absolute;
@@ -200,12 +195,10 @@
   filter: sepia(100%) hue-rotate(120deg) saturate(50%);
 }
 
-.folder-label {
-  position: relative;
-  top: -19vw;
-  left: 3vw;
-  font-size: .2vw !important;
-  font-weight: 400;
+.folder-icon {
+  width: 20vw;
+  height: auto;
+  filter: sepia(100%) hue-rotate(120deg) saturate(50%);
 }
 
 a {
