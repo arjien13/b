@@ -38,7 +38,7 @@
 
     .intro {
       width: 90vw;
-      font-size: 2.5vw;
+      font-size: 3vw;
       text-align: center;
       display: flex;
       justify-content: center;
@@ -46,10 +46,9 @@
       border: 1px solid #33cc33;
       box-shadow: 0 0 10px rgba(152, 255, 152, 0.9);
       animation: shining-borders 5s infinite;
-      margin: 0; /* Reset margin */
-      padding: 0.5em; /* Use em for padding */
-      height: fit-content; /* Set height to fit content */
-      animation: shining-borders 5s infinite;
+     
+      
+      animation: shining-borders 3s infinite;
       }
       @keyframes shining-borders {
       0% {
