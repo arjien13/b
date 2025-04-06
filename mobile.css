@@ -168,15 +168,17 @@
   align-items: center;
 }
 .folder-row {
-  display: flex;
+ display: flex;
   flex-direction: column;
   align-items: center;
+  height: 25vh; /* adjust this value to your liking */
 }
- .folder-row a {
+
+.folder-row a {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-bottom: 5vh; /* adjust the gap value to your liking */
+  margin-bottom: 5vh;
 }
 
 .folder-container h5 {
@@ -208,9 +210,7 @@ a {
   .folder-row:last-child a:last-child {
   margin-bottom: 0;
 }
- .folder-row + .folder-row {
-  margin-top: -5vh; /* adjust this value to match the margin-bottom value */
-}
+
 
 .skills-section {
   position: absolute;
