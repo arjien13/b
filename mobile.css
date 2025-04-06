@@ -100,10 +100,10 @@
 
     .bio-photo {
       position: relative;
-      top: 10vh;
+      top: 8vh;
       margin: 0 auto;
-      width: 23vw !important;
-      height: 23vw !important;
+      width: 30vw !important;
+      height: 30vw !important;
       object-fit: cover;
       border-radius: 50%;
        transform: scale(1.5); /* Increase size by 50% */
@@ -130,7 +130,7 @@
           width: 55vw;
           text-align: center;
          font-weight: bold; 
-         font-size: 2.5vw !important;
+         font-size: 3.5vw !important;
         }
 
         .bio-paragraph {
