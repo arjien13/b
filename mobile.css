@@ -197,11 +197,11 @@
 }
 
 .folder-icon {
-  width: 10vw;
+  width: 20vw;
   height: auto;
   filter: sepia(100%) hue-rotate(120deg) saturate(50%);
   
-    margin-left: 10px; /* adjust the margin to reposition the icon to the right */
+    margin-left: 20vw; /* adjust the margin to reposition the icon to the right */
   
   
 }
