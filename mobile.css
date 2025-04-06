@@ -210,7 +210,9 @@ a {
   .folder-row:last-child a:last-child {
   margin-bottom: 0;
 }
-
+.folder-row:first-child {
+  margin-bottom: 0;
+}
 
 .skills-section {
   position: absolute;
