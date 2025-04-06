@@ -176,6 +176,7 @@
   display: flex;
     flex-direction: column;
     align-items: flex-start;
+  gap: 5vh; /* adjust the gap value to your liking */
   
 }
    .folder-row a {
