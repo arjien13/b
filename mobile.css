@@ -202,7 +202,7 @@
   width: 20vw;
   height: auto;
   filter: sepia(100%) hue-rotate(120deg) saturate(50%);
-  
+   gap: 5vh; 
     margin-left: 20vw; /* adjust the margin to reposition the icon to the right */
   
   
