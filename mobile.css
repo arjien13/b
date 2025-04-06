@@ -228,16 +228,7 @@ a {
   font-size: 1vw;
 }
 
-.section-title{
- position: absolute;
- top: -1vh;
- left: 7vw;
- font-size: .5vh;
- font-weight: 500;
- text-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
 
-
-}
 
 .skills-section ul {
   list-style-type: square;
