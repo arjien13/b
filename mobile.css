@@ -17,14 +17,14 @@
 
     .menu {
       position: absolute;
-      top: 2.5vh; /* Increase the top value to move the menu down */
-      left: 60vw;
+      top: 2.4vh; /* Increase the top value to move the menu down */
+      left: 50vw;
       transform: translateX(-50%);
       background-image: linear-gradient(to bottom, #B2FFFC, #ffffff);
       display: flex;
       justify-content: center;
       text-align: center;
-      gap: 5vw;
+      gap: 6vw;
       padding: 1vw;
       box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
       z-index: 1;
@@ -33,7 +33,7 @@
     .menu-item {
       position: relative;
      transition: transform 0.3s ease-in-out;
-     font-size: 3em; /* Increase font size */
+     font-size: 4em; /* Increase font size */
   }
 
     .intro {
