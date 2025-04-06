@@ -17,7 +17,7 @@
 
     .menu {
       position: absolute;
-      top: 2.4vh; /* Increase the top value to move the menu down */
+      top: 2.2vh; /* Increase the top value to move the menu down */
       left: 50vw;
       transform: translateX(-50%);
       background-image: linear-gradient(to bottom, #B2FFFC, #ffffff);
@@ -38,7 +38,7 @@
 
     .intro {
       width: 90vw;
-      font-size: 2.3vw;
+      font-size: 2.5vw;
       text-align: center;
       display: flex;
       justify-content: center;
@@ -90,7 +90,7 @@
       color: #333;
       padding: 1vh;
       width: 50vw;
-      font-size: .8vw !important;
+      font-size: .7vw !important;
       white-space: nowrap;
     }
 
