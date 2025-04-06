@@ -166,18 +166,20 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 2vh; /* adjust this value to your liking */
-}
-.folder-row {
- display: flex;
-  flex-direction: column;
-  align-items: center
 }
 
-.folder-row a {
+
+.folder-container a {
   display: flex;
   flex-direction: column;
-  align-items: center
+  align-items: center;
+  margin-bottom: 10vh; /* adjust this value to your liking */
+}
+  .folder-container a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 10vh; /* adjust this value to your liking */
 }
 
 .folder-container h5 {
@@ -202,12 +204,7 @@ a {
   text-decoration: none;
   color: black;
 }
-  .folder-row:last-child a:last-child {
-  margin-bottom: 0;
-}
-.folder-row:first-child {
-  margin-bottom: 0;
-}
+
 
 .skills-section {
   position: absolute;
