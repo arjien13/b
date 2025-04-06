@@ -17,8 +17,8 @@
 
     .menu {
       position: absolute;
-      top: 2vh; /* Increase the top value to move the menu down */
-      left: 50vw;
+      top: 2.5vh; /* Increase the top value to move the menu down */
+      left: 60vw;
       transform: translateX(-50%);
       background-image: linear-gradient(to bottom, #B2FFFC, #ffffff);
       display: flex;
