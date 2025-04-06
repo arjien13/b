@@ -169,15 +169,13 @@
   top: 98vh;
   left: 72vw;
   transform: translate(-50vw, -50vh);
- 
 }
 
 .folder-row {
   display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-  
-  
+  flex-direction: column;
+  align-items: center;
+  gap: 5vh; /* adjust the gap value to your liking */
 }
    .folder-row a {
   display: flex;
@@ -203,17 +201,12 @@
   width: 20vw;
   height: auto;
   filter: sepia(100%) hue-rotate(120deg) saturate(50%);
-
-    margin-left: 20vw; /* adjust the margin to reposition the icon to the right */
-  
-  
 }
 
 .folder-label {
-  position: relative;
-  font-size: .5vw; 
+  font-size: 2vw;
   font-weight: 400;
-  margin-bottom: 1vh; /* add some space between the label and the icon */
+  margin-bottom: 1vh;
 }
 
 a {
