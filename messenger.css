@@ -151,14 +151,14 @@
 
   .Portfolio-Section{
     position: absolute;
-    top: 22.5vh !important;
+    top: 19vh !important;
     
   }
   
   
   .Portfolio-Section h2{
           position: absolute;
-          top: -2vh !important;
+          top: -1.3vh !important;
           left: 39.5vw;
           transform: translateX(-50%);
         }
