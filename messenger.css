@@ -27,7 +27,7 @@
       text-align: center;
       gap: 6vw;
       padding: 1vw;
-      box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+      box-shadow: 0px 0px 20px rgba(144, 238, 144, .5);
       z-index: 1;
     }
 
@@ -202,7 +202,7 @@
   position: relative;
 }
 .folder-label {
-  font-size: 5px; /* Reduce font size */
+  font-size: 1vw; /* Reduce font size */
   position: absolute; /* Position absolutely */
   top: 60vh; /* Move to the middle vertically */
   left: 60vw%; /* Move to the middle horizontally */
