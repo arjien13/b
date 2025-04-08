@@ -154,11 +154,14 @@
   /********************* PORTFOLIO *********************/
         
 
-  .Portfolio-Section p {
-  font-size: 1px !important;
-  width: 300px; /* adjust the width to your liking */
-  height: 200px; /* adjust the height to your liking */
-}
+ .Portfolio-Section p {
+    font-size: 1px !important;
+    width: auto; /* Change width to auto */
+    height: auto; /* Change height to auto */
+    transform: scale(1.1); 
+    box-shadow: none; /* Remove box shadow */
+    padding: 1vh; 
+  }
 
 /**folder icon*/
 
