@@ -174,8 +174,8 @@
   flex-direction: column;
   align-items: center;
  position: absolute;
-  top: 90vh; /* Adjust the value to move it up */
-  left: 90vw;
+  top: 87.5vh; /* Adjust the value to move it up */
+  left: 95vw;
 }
 
 
@@ -214,8 +214,8 @@
 .folder-label {
   font-size: 2vw; /* Reduce font size */
   position: absolute; /* Position absolutely */
-  top: 5vh;
-  left: 7vw;
+  top: 3.5vh;
+  left: 5vw;
   
   
 }
@@ -250,7 +250,7 @@ a {
   font-size: .5vh;
   
   flex-direction: column;
-  left: 3vw;
+  left: 1vw;
 }
 
 .skills-section li {
