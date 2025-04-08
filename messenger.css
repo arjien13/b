@@ -230,7 +230,7 @@ a {
   position: absolute;
   bottom: 0;  
   width: 50vw;
-  height: 50vh;
+  height: auto;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
