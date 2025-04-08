@@ -156,10 +156,10 @@
 
  .Portfolio-Section p {
     font-size: 1px !important;
-    width: auto; /* Change width to auto */
+    width: 80vw; /* Adjust width to 80% of viewport width */
     height: auto; /* Change height to auto */
     transform: scale(1.1); 
-    box-shadow: none; /* Remove box shadow */
+    box-shadow: 0 0 0.5vh rgba(0, 0, 0, 0.1); /* Adjust box shadow */
     padding: 1vh; 
   }
 
