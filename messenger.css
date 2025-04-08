@@ -82,17 +82,12 @@
     }
 
     .footer {
-      position: absolute;
-      bottom: 0;
-      left: 45%;
-      transform: translateX(-50%);
-      text-align: center;
-      color: #333;
-      padding: 1vh;
-      width: 50vw;
-      font-size: .7vw !important;
-      white-space: nowrap;
-    }
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+}
 
     .bio-section {
       position: relative;
