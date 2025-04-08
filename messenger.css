@@ -264,6 +264,10 @@ a {
 .folder-icon:hover {
   transform: scale(1.1);
 }
+  .skills-section h5 ul {
+    position: absolute;
+    top: 5hv
+  }
 
 /**folder icon*/
 /********************* PORTFOLIO *********************/  
