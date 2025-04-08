@@ -144,16 +144,25 @@
           
         }
 
-        .Portfolio-Section h2{
+      
+
+  /********************* PORTFOLIO *********************/
+        
+
+  .Portfolio-Section{
+    position: absolute;
+    top: 4vh !important;
+    
+  }
+  
+  
+  .Portfolio-Section h2{
           position: absolute;
           top: 1vh !important;
           left: 39.5vw;
           transform: translateX(-50%);
         }
-
-  /********************* PORTFOLIO *********************/
-        
-
+  
  .Portfolio-Section p {
     font-size: 1px !important;
     width: 80vw; /* Adjust width to 80% of viewport width */
