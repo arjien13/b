@@ -264,9 +264,9 @@ a {
 .folder-icon:hover {
   transform: scale(1.1);
 }
-  .skills-section h5 ul {
+  .skills-section h5  {
     position: absolute;
-    top: 5hv
+    top: 5hv;
   }
 
 /**folder icon*/
