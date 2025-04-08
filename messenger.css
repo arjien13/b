@@ -201,7 +201,6 @@
   filter: sepia(100%) hue-rotate(120deg) saturate(50%);
 }
 .folder-row a {
-  
    position: relative; /* Add this */
   top: 50vh; /* Adjust the top position */
   left: 50vw; /* Adjust the left position */
@@ -209,8 +208,8 @@
 .folder-label {
   font-size: 2vw; /* Reduce font size */
   position: absolute; /* Position absolutely */
-  top: 50%; /* Move to the middle vertically */
-  left: 50%; /* Move to the middle horizontally */
+  top: 30%; /* Move to the middle vertically */
+  left: 20%; /* Move to the middle horizontally */
   
 }
 
