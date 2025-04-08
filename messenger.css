@@ -174,8 +174,8 @@
   flex-direction: column;
   align-items: center;
  position: absolute;
-  top: 85vh; /* Adjust the value to move it up */
-  left: 80vw;
+  top: 90vh; /* Adjust the value to move it up */
+  left: 90vw;
 }
 
 
@@ -214,8 +214,8 @@
 .folder-label {
   font-size: 2vw; /* Reduce font size */
   position: absolute; /* Position absolutely */
-  top: 10vh;
-  left: 10vw;
+  top: 5vh;
+  left: 7vw;
   
   
 }
