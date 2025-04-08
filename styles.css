@@ -372,16 +372,17 @@ a {
 
 .skills-section {
   position: absolute;
-  top: -1vh;
-  left: -30vw;
-  width: 25vw;
-  height: 20vh;
+  top: -5vh;
+  left: -33vw;
+  width: 33vw;
+  height: auto;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
   font-size: 1vw;
 }
+
 
 .section-title{
  position: absolute;
