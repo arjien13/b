@@ -180,13 +180,13 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-bottom: 10vh; /* adjust this value to your liking */
+  margin-bottom: 5vh; /* adjust this value to your liking */
 }
   .folder-container a {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-bottom: 5vh; /* adjust this value to your liking */
+  
 }
 
 .folder-container h5 {
@@ -200,7 +200,7 @@
 }
 
 .folder-icon {
-  width: 2vw;
+  width: 20vw;
   height: auto;
   filter: sepia(100%) hue-rotate(120deg) saturate(50%);
 }
