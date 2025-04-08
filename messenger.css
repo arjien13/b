@@ -202,10 +202,10 @@
   position: relative;
 }
 .folder-label {
-  font-size: 1vw; /* Reduce font size */
+  font-size: 2vw; /* Reduce font size */
   position: absolute; /* Position absolutely */
-  top: 60vh; /* Move to the middle vertically */
-  left: 60vw%; /* Move to the middle horizontally */
+  top: 50%; /* Move to the middle vertically */
+  left: 50%; /* Move to the middle horizontally */
   
 }
 
