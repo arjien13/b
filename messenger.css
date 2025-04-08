@@ -194,12 +194,20 @@
 }
 
 .folder-icon {
-  width: 20vw;
+  width: 25vw;
   height: auto;
   filter: sepia(100%) hue-rotate(120deg) saturate(50%);
 }
-
-
+.folder-row a {
+  position: relative;
+}
+.folder-label {
+  font-size: 5px; /* Reduce font size */
+  position: absolute; /* Position absolutely */
+  top: 60vh; /* Move to the middle vertically */
+  left: 60vw%; /* Move to the middle horizontally */
+  
+}
 
 a {
   text-decoration: none;
