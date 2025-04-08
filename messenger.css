@@ -199,12 +199,17 @@
   width: 25vw;
   height: auto;
   filter: sepia(100%) hue-rotate(120deg) saturate(50%);
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
 }
 .folder-row a {
    position: relative; /* Add this */
-  top: 50vh; /* Adjust the top position */
-  left: 50vw; /* Adjust the left position */
 }
+.folder-row {
+  position: relative;
+}
+  
 .folder-label {
   font-size: 2vw; /* Reduce font size */
   position: absolute; /* Position absolutely */
