@@ -158,7 +158,7 @@
   
   .Portfolio-Section h2{
           position: absolute;
-          top: -1.9vh !important;
+          top: 1vh !important;
           left: 39.5vw;
           transform: translateX(-50%);
         }
