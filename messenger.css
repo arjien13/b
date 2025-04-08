@@ -180,14 +180,8 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-bottom: 5vh; /* adjust this value to your liking */
 }
-  .folder-container a {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
   
-}
 
 .folder-container h5 {
   position: absolute;
