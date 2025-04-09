@@ -229,7 +229,7 @@ a {
 /**skills-section*/
 .skills-section {
   position: absolute;
-  bottom: 1vh;  
+  bottom: -3vh;  
   width: 50vw;
   height: auto;
   display: flex;
