@@ -268,7 +268,7 @@ a {
 .my-face {
   position: absolute;
   top: 31.5vh; /* distance from top */
-  left: 5vw; /* distance from left */
+  left: 1vw; /* distance from left */
   width: 60vw; /* image width */
   height: auto; /* image height */
   mix-blend-mode: multiply;
@@ -277,7 +277,7 @@ a {
 .my-icon {
   position: absolute;
   top: 42vh; /* distance from top */
-  left: 30vw; /* distance from left */
+  left: 23vw; /* distance from left */
   width: 20vw; /* image width */
   height: auto; /* image height */
   mix-blend-mode: multiply;
