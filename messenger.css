@@ -251,8 +251,8 @@ a {
 }
  .skills-section h5 {
   position: absolute;
-  left: .1vw; 
-  bottom: 30vh;
+  margin-left: 10vw; 
+  margin-top: -30vh;
 }
   .skills-section ul {
   width: 80vw;
