@@ -422,9 +422,9 @@ text-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
 
 .my-face {
   position: absolute;
-  top: 31.5vh; /* distance from top */
-  left: 17vw; /* distance from left */
-  width: 13vw; /* image width */
+  top: 40.3vh; /* distance from top */
+  left: 22vw; /* distance from left */
+  width: 4.3vw; /* image width */
   height: auto; /* image height */
   mix-blend-mode: multiply;
 }
