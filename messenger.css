@@ -252,6 +252,7 @@ a {
  .skills-section h5 {
   position: absolute;
   left: 1vw; 
+  bottom: 2vh;
 }
   .skills-section ul {
   width: 80vw;
