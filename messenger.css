@@ -212,9 +212,9 @@
 }
   
 .folder-label {
-  font-size: .8vw; /* Reduce font size */
+  font-size: .6vw; /* Reduce font size */
   position: absolute; /* Position absolutely */
-  top:  3vh;
+  top:  3.3vh;
   left: 5.3vw;
   
   
@@ -281,6 +281,10 @@ a {
   width: 18vw; /* image width */
   height: auto; /* image height */
   mix-blend-mode: multiply;
+}
+.my-image{
+  position: absolute;
+  top: 1vh; /*
 }
 /**skills-section*/
 
