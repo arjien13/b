@@ -250,8 +250,8 @@ a {
   font-size: 1px;
 }
  .skills-section h5 {
-  text-align: left;
-  margin-left: 0px; /* adjust this value to match your ul padding */
+  position: absolute;
+  left: 1vw; 
 }
   .skills-section ul {
   width: 80vw;
