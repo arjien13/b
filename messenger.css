@@ -242,7 +242,7 @@ a {
   position: absolute;
   bottom: -5vh;  
   width: 35vw;
-  height: 35vh;
+  height: auto;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -262,11 +262,10 @@ a {
 }
 
 
-  .skills-section h5  {
-    position: absolute;
-    bottom: 1hv;
-    left: 50vw;
-  }
+ .skills-section h5 {
+  text-align: center;
+  margin-left: 40px; /* adjust this value to match your ul padding */
+}
 .my-face {
   position: absolute;
   top: 31.5vh; /* distance from top */
