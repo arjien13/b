@@ -1,6 +1,5 @@
 
 
-
 * {
   margin: 0;
   padding: 0;
@@ -312,6 +311,8 @@ body {
   font-size: 1.3vw;
 }
 
+
+
 .Portfolio-Section p {
   font-size: 1vw;
   transform: scale(1.1); 
@@ -327,7 +328,7 @@ body {
   align-items: center;
   position: absolute;
   top: 100vh;
-  left: 103vw;
+  left: 106vw;
   transform: translate(-50vw, -50vh);
  
 }
@@ -349,7 +350,7 @@ body {
 }
 
 .folder-icon {
-  width: 11.1vw;
+  width: 11vw;
   height: auto;
   filter: sepia(100%) hue-rotate(120deg) saturate(50%);
   margin-right: .5vw;
@@ -362,8 +363,6 @@ body {
   left: 2vw;
   font-size: .8vw;
   font-weight: 400;
-  
-  
 }
 
 a {
@@ -371,10 +370,21 @@ a {
   color: black;
 }
 
+.folder-icon {
+  transition: transform 0.2s ease-in-out;
+}
+
+.folder-icon:hover {
+  transform: scale(1.1);
+}
+/**folder icon*/
+
+
+/**Skills Overview*/
 .skills-section {
   position: absolute;
-  top: -9vh;
-  left: -33vw;
+  bottom: 48vh;
+  left: -32.9vw;
   width: 33vw;
   height: auto;
   display: flex;
@@ -383,7 +393,6 @@ a {
   justify-content: flex-start;
   font-size: 1vw;
 }
-
 
 .section-title{
  position: absolute;
@@ -404,26 +413,23 @@ text-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
 .skills-section h5{
   position: absolute;
   left: 6vw;
-  top: .1vh;
+  top: -1vh;
 }
 
 .skills-section li {
   margin-bottom: 2vh;
 }
 
-.folder-icon {
-  transition: transform 0.2s ease-in-out;
+.my-image {
+  position: absolute;
+  top: 31.5vh; /* distance from top */
+  left: 17vw; /* distance from left */
+  width: 13vw; /* image width */
+  height: auto; /* image height */
+  mix-blend-mode: multiply;
 }
 
-.folder-icon:hover {
-  transform: scale(1.1);
-}
 
-
-
-/**folder icon*/
+/**Skills Overview*/
 
 /********************* PORTFOLIO *********************/
-
-  
-
