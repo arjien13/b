@@ -229,7 +229,7 @@ a {
 /**skills-section*/
 .skills-section {
   position: absolute;
-  bottom: 5vh;  
+  bottom: 1vh;  
   width: 50vw;
   height: auto;
   display: flex;
@@ -266,6 +266,7 @@ a {
   .skills-section h5  {
     position: absolute;
     bottom: 1hv;
+    left: 8vw;
   }
 .my-face {
   position: absolute;
