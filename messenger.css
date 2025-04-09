@@ -174,7 +174,7 @@
   flex-direction: column;
   align-items: center;
  position: absolute;
-  top: 87.5vh; /* Adjust the value to move it up */
+  top: 89vh; /* Adjust the value to move it up */
   left: 95vw;
 }
 
