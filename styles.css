@@ -420,7 +420,7 @@ text-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
   margin-bottom: 2vh;
 }
 
-.my-image {
+.my-face {
   position: absolute;
   top: 31.5vh; /* distance from top */
   left: 17vw; /* distance from left */
@@ -428,6 +428,16 @@ text-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
   height: auto; /* image height */
   mix-blend-mode: multiply;
 }
+
+.my-icon {
+  position: absolute;
+  top: 42vh; /* distance from top */
+  left: 73.8vw; /* distance from left */
+  width: 4.5vw; /* image width */
+  height: auto; /* image height */
+  mix-blend-mode: multiply;
+}
+
 
 
 /**Skills Overview*/
