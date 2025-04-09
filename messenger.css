@@ -241,7 +241,7 @@ a {
 .skills-section {
   position: absolute;
   bottom: -5vh;  
-  width: 35vw;
+  width: 40vw;
   height: auto;
   display: flex;
   flex-direction: column;
@@ -249,18 +249,6 @@ a {
   justify-content: flex-start;
   font-size: 1vw;
 }
-
-.skills-section ul {
-  width: 80vw;
-  height: auto;
-  list-style-type: square;
-  position: absolute;
-  top: 1vh;
-  font-size: .5vh;
-  flex-direction: column;
-  left: 1vw;
-}
-
 
  .skills-section h5 {
   text-align: center;
