@@ -214,7 +214,7 @@
 .folder-label {
   font-size: .5vw; /* Reduce font size */
   position: absolute; /* Position absolutely */
-  top:  3.7vh;
+  top:  3.8vh;
   left: 5vw;
   
   
@@ -263,6 +263,9 @@ a {
   font-size: .5vh;
   flex-direction: column;
   left: 1vw;
+}
+  .skills-section strong {
+  font-weight:550;
 }
   
 .my-face {
