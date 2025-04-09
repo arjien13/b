@@ -431,7 +431,7 @@ text-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
 
 .my-icon {
   position: absolute;
-  top: 42vh; /* distance from top */
+  top: 41.4vh; /* distance from top */
   left: 73.8vw; /* distance from left */
   width: 4.5vw; /* image width */
   height: auto; /* image height */
