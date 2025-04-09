@@ -269,7 +269,7 @@ a {
   position: absolute;
   top: 31vh; /* distance from top */
   left: -13vw; /* distance from left */
-  width: 55vw; /* image width */
+  width: 20vw; /* image width */
   height: auto; /* image height */
   mix-blend-mode: multiply;
 }
