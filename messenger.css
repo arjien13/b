@@ -289,14 +289,21 @@ a {
   position: absolute;
   top: 1vh; 
 }
-  .my-image {
-  transition: transform 0.2s ease-in-out;
-  cursor: pointer;
+ .my-image {
+  position: relative;
+  overflow: hidden;
 }
 
-.my-image:hover {
-  transform: scale(1.1);
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+.my-image img {
+  transition: transform 0.2s ease-in-out;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.my-image:hover img {
+  transform: translate(-50%, -50%) scale(1.1);
 }
 /**skills-section*/
 
