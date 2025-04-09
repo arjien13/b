@@ -267,8 +267,8 @@ a {
   
 .my-face {
   position: absolute;
-  top: 31.5vh; /* distance from top */
-  left: -8vw; /* distance from left */
+  top: 31vh; /* distance from top */
+  left: -13vw; /* distance from left */
   width: 60vw; /* image width */
   height: auto; /* image height */
   mix-blend-mode: multiply;
