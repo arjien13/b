@@ -241,8 +241,8 @@ a {
 .skills-section {
   position: absolute;
   bottom: -5vh;  
-  width: 50vw;
-  height: auto;
+  width: 35vw;
+  height: 35vh;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
