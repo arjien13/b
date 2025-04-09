@@ -252,7 +252,7 @@ a {
  .skills-section h5 {
   position: absolute;
   margin-left: -3vw; 
-  margin-top: -1.5vh;
+  margin-top: -1vh;
 }
   .skills-section ul {
   width: 80vw;
@@ -268,8 +268,8 @@ a {
 .my-face {
   position: absolute;
   top: 31.5vh; /* distance from top */
-  left: 17vw; /* distance from left */
-  width: 13vw; /* image width */
+  left: 10vw; /* distance from left */
+  width: 30vw; /* image width */
   height: auto; /* image height */
   mix-blend-mode: multiply;
 }
@@ -277,8 +277,8 @@ a {
 .my-icon {
   position: absolute;
   top: 42vh; /* distance from top */
-  left: 73.8vw; /* distance from left */
-  width: 4.5vw; /* image width */
+  left: 50vw; /* distance from left */
+  width: 10vw; /* image width */
   height: auto; /* image height */
   mix-blend-mode: multiply;
 }
