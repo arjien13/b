@@ -224,6 +224,17 @@ a {
   text-decoration: none;
   color: black;
 }
+.folder-row:nth-child(2) {
+  margin-top: 0 !important;
+}
+  .folder-icon {
+  transition: transform 0.2s ease-in-out;
+}
+
+.folder-icon:hover {
+  transform: scale(1.1);
+}
+  
 /**folder icon*/
 
 /**skills-section*/
@@ -239,11 +250,6 @@ a {
   font-size: 1vw;
 }
 
-  .folder-row:nth-child(2) {
-  margin-top: 0 !important;
-}
-
-
 .skills-section ul {
   width: 80vw;
   height: auto;
@@ -251,22 +257,15 @@ a {
   position: absolute;
   top: 1vh;
   font-size: .5vh;
-  
   flex-direction: column;
   left: 1vw;
 }
 
-.folder-icon {
-  transition: transform 0.2s ease-in-out;
-}
 
-.folder-icon:hover {
-  transform: scale(1.1);
-}
   .skills-section h5  {
     position: absolute;
     bottom: 1hv;
-    left: 20vw;
+    left: 50vw;
   }
 .my-face {
   position: absolute;
