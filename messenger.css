@@ -224,8 +224,9 @@ a {
   text-decoration: none;
   color: black;
 }
+/**folder icon*/
 
-
+/**skills-section*/
 .skills-section {
   position: absolute;
   bottom: 0;  
@@ -270,7 +271,24 @@ a {
     position: absolute;
     top: 5hv;
   }
+.my-face {
+  position: absolute;
+  top: 31.5vh; /* distance from top */
+  left: 17vw; /* distance from left */
+  width: 13vw; /* image width */
+  height: auto; /* image height */
+  mix-blend-mode: multiply;
+}
 
-/**folder icon*/
+.my-icon {
+  position: absolute;
+  top: 42vh; /* distance from top */
+  left: 73.8vw; /* distance from left */
+  width: 4.5vw; /* image width */
+  height: auto; /* image height */
+  mix-blend-mode: multiply;
+}
+/**skills-section*/
+
 /********************* PORTFOLIO *********************/  
 }
