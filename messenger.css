@@ -5,7 +5,7 @@
       height: 90vh;
       background-color: rgba(0, 0, 0, 0.1);
       border: 0.1vw solid #ddd;
-      box-shadow: 0 0 1vh rgba(0,0,0,0.5);a
+      box-shadow: 0 0 1vh rgba(0,0,0,0.5);
       position: absolute;
       top: 53vh;
       left: 50vw;
@@ -251,8 +251,8 @@ a {
 }
  .skills-section h5 {
   position: absolute;
-  left: -3.5vw; 
-  bottom: 4vh;
+  left: .1vw; 
+  bottom: 30vh;
 }
   .skills-section ul {
   width: 80vw;
