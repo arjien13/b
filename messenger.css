@@ -239,11 +239,11 @@ a {
 
 /**skills-section*/
 .skills-section {
-  position: absolute;
-  bottom: -5vh;  
-  width: 80vw;
-  height: auto;
-  font-size: 1px;
+    width: 80vw; /* Adjust width to 80% of viewport width */
+    height: auto; /* Change height to auto */
+    transform: scale(1.1); 
+    box-shadow: 0 0 0.5vh rgba(0, 0, 0, 0.1); 
+    padding: 1vh; 
 }
 
  .skills-section h5 {
