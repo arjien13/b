@@ -249,15 +249,11 @@ a {
   height: auto;
   list-style-type: square;
   position: absolute;
-  top: 4vh;
+  top: 1vh;
   font-size: .5vh;
   
   flex-direction: column;
   left: 1vw;
-}
-
-.skills-section li {
-  margin-bottom: 2vh;
 }
 
 .folder-icon {
@@ -269,7 +265,7 @@ a {
 }
   .skills-section h5  {
     position: absolute;
-    top: 1hv;
+    bottom: 1hv;
   }
 .my-face {
   position: absolute;
