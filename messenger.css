@@ -212,9 +212,9 @@
 }
   
 .folder-label {
-  font-size: 1.3vw; /* Reduce font size */
+  font-size: 1vw; /* Reduce font size */
   position: absolute; /* Position absolutely */
-  top: 1vh;
+  top: 2vh;
   left: 5.2vw;
   
   
