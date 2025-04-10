@@ -24,11 +24,6 @@ body {
     
 }
 
-@media only screen 
-  and (min-width: 1000px) 
-  and (min-height: 800px) {
-
-
 .menu {
     position: absolute;
     top: 1vh;
@@ -450,4 +445,4 @@ text-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
 /**Skills Overview*/
 
 /********************* PORTFOLIO *********************/
-}
+
