@@ -241,13 +241,14 @@ a {
 .skills-section {
   position: absolute;
   bottom: -5vh;  
-  width: 50vw;
+  width: 80vw;
   height: auto;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
   font-size: 1px;
+  left: 10vw; 
 }
  .skills-section h5 {
   position: absolute;
