@@ -263,7 +263,10 @@ a {
   top: 1vh;
   font-size: .5vh;
   flex-direction: column;
-  margin-left: -30vw; /* adjust this value to move it further left */
+  margin-left: -33vw; 
+}
+  .skills-section li {
+  margin-bottom: 1vh; 
 }
   .skills-section strong {
   font-weight:510;
