@@ -149,10 +149,12 @@
   /********************* PORTFOLIO *********************/
         
 
-  .Portfolio-Section {
+.Portfolio-Section {
   position: absolute;
   top: 22vh !important;
-
+  height: 70vh; /* adjust the height to fit the content */
+  display: flex;
+  flex-direction: column;
 }
   
   
