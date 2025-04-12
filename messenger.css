@@ -149,12 +149,13 @@
   /********************* PORTFOLIO *********************/
         
 
-  .Portfolio-Section{
-    position: absolute;
-    top: 22vh !important;
-
-    
-  }
+  .Portfolio-Section {
+  position: absolute;
+  top: 22vh !important;
+  max-width: 100vw;
+  max-height: 100vh;
+  overflow: hidden;
+}
   
   
   .Portfolio-Section h2{
