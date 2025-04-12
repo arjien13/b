@@ -147,6 +147,7 @@
   .Portfolio-Section{
     position: absolute;
     top: 22vh !important;
+    overflow: hidden;
     
   }
   
@@ -252,7 +253,7 @@ a {
 }
  .skills-section h5 {
   position: absolute;
-  margin-left: -1.5vw; 
+  margin-left: -1vw; 
   margin-top: -1vh;
 }
 .skills-section ul {
