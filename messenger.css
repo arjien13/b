@@ -240,7 +240,7 @@ a {
 /**skills-section*/
 .skills-section {
   position: absolute;
-  bottom: -5vh;  
+  bottom: -10vh;  
   width: 80vw;
   height: auto;
   display: flex;
@@ -266,7 +266,7 @@ a {
   margin-left: -33vw; 
 }
   .skills-section li {
-  margin-bottom: 1vh; 
+  margin-bottom: 1.5vh; 
 }
   .skills-section strong {
   font-weight:510;
