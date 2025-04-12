@@ -450,4 +450,31 @@ text-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
 
 /********************* PORTFOLIO *********************/
 
+@media (min-width: 680px) and (max-width: 1366px) {
+
+  .folder-label {
+    position: relative;
+    top: -8.4vw;
+    left: 2vw;
+    font-size: .8vw;
+    font-weight: 400;
+  }
+
+  .skills-section h5 {
+    position: absolute;
+    left: 4vw;
+    top: 1vh;
+    font-size: clamp(0.8rem, .8vw, 1.5rem);
+  }
+
+  
+  .skills-section ul {
+    position: absolute;
+    top: 6vh;
+    left: -3vw;
+    
+  }
+
+}
+
 
