@@ -258,6 +258,23 @@ a {
   margin-left: -1vw; 
   margin-top: -1vh;
 }
+.skills-section ul {
+  width: 80vw;
+  height: auto;
+  list-style-type: square;
+  position: absolute;
+  top: 1vh;
+  font-size: .5vh;
+  flex-direction: column;
+  margin-left: -33vw; 
+}
+  .skills-section li {
+  margin-bottom: 1.5vh; 
+}
+  .skills-section strong {
+  font-weight:510;
+}
+  
 
   
 .my-face {
