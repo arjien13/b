@@ -50,8 +50,8 @@ body {
 .folder-item figcaption {
   font-size: 2vmin;
   color: #000;
-  margin-top: 0.01rem;
- 
+  margin-top: 0.1rem;
+   margin-top: -0.5vmin; /* Adjust this value as needed */
 }
 
 /* Scrollbar styles */
