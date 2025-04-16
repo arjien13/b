@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="back-button-container">
-        <a href="index.html" class="back-button">&larr; Back</a>
+        <a href="index.html" class="back-button"> Back</a>
       </div>
 
     <div class="grid-wrapper">
@@ -25,11 +25,20 @@
               </a>
             </figure>
             <figure class="folder-item">
-              <a href="#" onclick="this.querySelector('.alert-message').textContent = 'This folder is empty!'; setTimeout(() => {this.querySelector('.alert-message').textContent = '';}, 1000)">
+              <a href="friends.html">
                 <img src="icons/friends.jpg" alt="Folder">
-                <span class="alert-message" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: red; font-weight: bold; white-space: nowrap;"></span>
               </a>
-              <figcaption>Me & Friends</figcaption>
+              <a>
+                <figcaption>Friends</figcaption>
+              </a>
+            </figure>
+            <figure class="folder-item">
+              <a href="family.html">
+                <img src="icons/family.jpg" alt="Folder">
+              </a>
+              <a>
+                <figcaption>family</figcaption>
+              </a>
             </figure>
             <figure class="folder-item">
               <a href="#" onclick="this.querySelector('.alert-message').textContent = 'This folder is empty!'; setTimeout(() => {this.querySelector('.alert-message').textContent = '';}, 1000)">
@@ -37,13 +46,6 @@
                 <span class="alert-message" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: red; font-weight: bold; white-space: nowrap;"></span>
               </a>
               <figcaption>lovez</figcaption>
-            </figure>
-            <figure class="folder-item">
-              <a href="#" onclick="this.querySelector('.alert-message').textContent = 'This folder is empty!'; setTimeout(() => {this.querySelector('.alert-message').textContent = '';}, 1000)">
-                <img src="icons/family.jpg" alt="Folder">
-                <span class="alert-message" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: red; font-weight: bold; white-space: nowrap;"></span>
-              </a>
-              <figcaption>family</figcaption>
             </figure>
         </div>
     </div>
