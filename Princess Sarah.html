@@ -63,8 +63,11 @@ body {
   .episode img {
     height: 20vw;
   }
-
-  
+}
+@media (max-width: 375px) {
+  .container {
+    top: 54%; /* adjust this value to move the container down */
+  }
 }
 
   
@@ -84,8 +87,9 @@ button:hover {
   text-align: center;
   font-size: 2vw;
   font-weight: 600;
-  margin-top: 2vh; /* add this */
-  
+  margin-top: 5vh;
+  color: #ffff00; /* shining yellow font color */
+  text-shadow: 0 0 10px rgba(255, 255, 0, 0.3); /* yellow glow effect */
 }
 .episode img {
   transition: transform 0.2s;
@@ -97,7 +101,7 @@ button:hover {
   </style>
 </head>
 <body>
-  <div class="Title">Princess Sarah Complete Episode</div>
+  <div class="Title">Princess Sara Complete Episode</div>
   <div class="container">
   </div>
   <script>
