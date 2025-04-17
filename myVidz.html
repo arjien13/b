@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Embedded Facebook Video</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+  <style>
+    
+    body {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #C9ECEC;
+      position: relative;
+      flex-direction: column;
+      font-family: 'Montserrat', sans-serif !important;
+    }
+    .fb-video-container {
+      width: 800px;
+      height: 400px;
+      position: relative;
+      overflow: hidden;
+      border-radius: 10px;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      align-items: center;  
+      background-color: rgba(0, 0, 0, 0.1);
+      border: 0.1vw solid #ddd;
+      box-shadow: 0 0 1vh rgba(0,0,0,0.5)
+    }
+    .video-wrapper {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .fb-video-container video {
+      width: 300px;
+      height: 200px;
+      border: none;
+      margin-bottom: 10px;
+    }
+    .video-text {
+      font-size: 20px;
+      font-weight: 400;
+    }
+    .back-button-container {
+      position: absolute;
+      top: 0;
+      left: 0;
+      padding: 1rem;
+    }
+
+    .back-button {
+      background-color: #acadac;
+      color: #fff;
+      border: none;
+      padding: 0.5rem 1rem;
+      border-radius: 0.25rem;
+      cursor: pointer;
+      text-decoration: none;
+    }
+
+    .back-button:hover {
+      background-color: #676966;
+    }
+  </style>
+</head>
+<body>
+  <div class="back-button-container">
+    <a href="vfolder.html" class="back-button"> Back</a>
+  </div>
+
+  <div class="fb-video-container">
+    <div class="video-wrapper">
+      <video controls>
+        <source src="vidz/billiard.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="video-text">Billiard</div>
+    </div>
+    <div class="video-wrapper">
+      <video controls>
+        <source src="vidz/bday.mp4" type="video/mp4">
+        
+      </video>
+      <div class="video-text">Birthday</div>
+    </div>
+  </div>
+</body>
+</html>
