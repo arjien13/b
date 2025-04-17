@@ -39,7 +39,14 @@
      transition: transform 0.3s ease-in-out;
      font-size: 4em; /* Increase font size */
   }
-  .dropdown {
+.dropdown {
+    display: none;
+    position: absolute;
+    top: 2.5vh;
+    left: 50%;
+    transform: translateX(-50%) scale(1);
+    padding: 1px;
+    transition: transform 0.2s ease-in-out;
     font-size: .9vw;
 }
 
