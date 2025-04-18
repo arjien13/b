@@ -405,19 +405,20 @@ a {
 /********************* PORTFOLIO *********************/
 
 @media only screen and (min-width: 769px) and (min-height: 600px) {
-  <div class="skills-section-container">
-  <div class="skills-section">
-    <h5>Skills Overview</h5>
-    <ul>
-      <li><strong>Graphics Design:</strong> Proficient in modifying images and creating visual content to meet client specifications.</li>
-      <li><strong>Technical Skills:</strong> Experienced in working with AI data for self-driving cars and other technical applications.</li>
-      <li><strong>Web Design:</strong> Knowledgeable in designing and creating websites to showcase products or services.</li>
-      <li><strong>Problem-Solving:</strong> Ability to analyze problems and identify creative solutions.</li>
-      <li><strong>Attention to Detail:</strong> Meticulous in reviewing and evaluating visual content to ensure high-quality standards.</li>
-      <li><strong>Adaptability:</strong> Skilled in adapting to new technologies and workflows to stay up-to-date with industry trends.</li>
-    </ul>
-  </div>
-</div>
+ .skills-section-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; /* Use min-height for better responsiveness */
+  padding: 5rem; /* Use rem for padding */
+}
+
+.skills-section {
+  max-width: 50rem; /* Use rem for max-width */
+  width: 90%; /* Add a percentage-based width for responsiveness */
+  padding: 2rem; /* Use rem for padding */
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1); /* Use rem for box-shadow */
+}
 
   .folder-container {
     display: flex;
