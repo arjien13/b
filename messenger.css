@@ -14,7 +14,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      font-size: 1.5vw !important;
+     
     
      
     }
@@ -37,8 +37,14 @@
     .menu-item {
       position: relative;
      transition: transform 0.3s ease-in-out;
-     font-size: 4em; /* Increase font size */
   }
+  .menu-item > a {
+  font-size: 1vw;
+}
+
+.dropdown-item > a {
+  font-size: 0.8vw;
+}
 
     .intro {
       width: 90vw;
