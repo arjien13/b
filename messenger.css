@@ -265,12 +265,12 @@ a {
   margin-top: -1vh;
 }
 .skills-section ul {
-  width: 80vw;
+  width: 85vw;
   height: auto;
   list-style-type: square;
   position: absolute;
   top: 1vh;
-  font-size: .5vh;
+  font-size: .4vh;
   flex-direction: column;
   margin-left: 33vw; 
 }
