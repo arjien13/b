@@ -261,6 +261,20 @@ a {
   padding: 2rem; /* Use rem for padding */
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1); /* Use rem for box-shadow */
 }
+
+/* Optional: Add media queries for better responsiveness on smaller screens */
+@media (max-width: 768px) {
+  .skills-section-container {
+    padding: 2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .skills-section {
+    width: 100%;
+    padding: 1rem;
+  }
+}
 .my-face {
   position: absolute;
   top: 37.5vh; /* distance from top */
