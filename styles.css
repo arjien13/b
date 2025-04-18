@@ -17,13 +17,8 @@ body {
     padding: 0; /* Remove any default padding */
     height: 100vh; /* Set the height to the full viewport height */
     overflow-x: hidden;
-    overflow-y: hidden;
- 
-    
+    overflow-y: hidden;    
 }
-
-
-
 .menu {
     position: absolute;
     top: 1vh;
@@ -109,8 +104,7 @@ body {
     transform: translate(-50%, -50%);
     display: flex;
     justify-content: center;
-    align-items: center;
-    font-size: 1.5vw !important;
+    align-items: center;    
   }
   
   .header {
