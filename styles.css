@@ -405,24 +405,19 @@ a {
 /********************* PORTFOLIO *********************/
 
 @media only screen and (min-width: 769px) and (min-height: 600px) {
-  .skills-section {
-    position: absolute;
-    top: 1px; /* adjust this value */
-    left: -32vw;
-    width: 30vw;
-    font-size: clamp(0.8rem, 1vw, 1.5rem);
-  }
-
-  .skills-section li {
-    margin-bottom: 20px; /* adjust this value */
-  }
-
-  .skills-section h5 {
-    
-     margin-left: 210px;
-     top: -30px;
-
-  }
+  <div class="skills-section-container">
+  <div class="skills-section">
+    <h5>Skills Overview</h5>
+    <ul>
+      <li><strong>Graphics Design:</strong> Proficient in modifying images and creating visual content to meet client specifications.</li>
+      <li><strong>Technical Skills:</strong> Experienced in working with AI data for self-driving cars and other technical applications.</li>
+      <li><strong>Web Design:</strong> Knowledgeable in designing and creating websites to showcase products or services.</li>
+      <li><strong>Problem-Solving:</strong> Ability to analyze problems and identify creative solutions.</li>
+      <li><strong>Attention to Detail:</strong> Meticulous in reviewing and evaluating visual content to ensure high-quality standards.</li>
+      <li><strong>Adaptability:</strong> Skilled in adapting to new technologies and workflows to stay up-to-date with industry trends.</li>
+    </ul>
+  </div>
+</div>
 
   .folder-container {
     display: flex;
