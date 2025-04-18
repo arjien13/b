@@ -249,30 +249,14 @@ a {
 /**skills-section*/
 .skills-section {
   position: absolute;
-  bottom: 0;
+  top: 100vh; /* adjust this value to position it below the folder containers */
   left: 0;
   width: 100%;
   padding: 20px;
   background-color: rgba(255, 255, 255, 0.5);
 }
 
-.skills-section h5 {
-  font-size: 4vw;
-  margin-bottom: 1vh;
-}
 
-.skills-section ul {
-  width: 35vw;
-  height: auto;
-  list-style-type: square;
-  font-size: 3vw;
-  padding: 0;
-  margin: 0;
-}
-
-.skills-section li {
-  margin-bottom: 2vh;
-}
 
 .skills-section strong {
   font-weight: 510;
