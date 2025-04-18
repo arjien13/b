@@ -39,6 +39,9 @@
      transition: transform 0.3s ease-in-out;
      font-size: 4em; /* Increase font size */
   }
+  .dropdown-item > a {
+  font-size: 3em;
+}
 
     .intro {
       width: 90vw;
