@@ -250,14 +250,16 @@ a {
 .skills-section {
   position: absolute;
   bottom: 5vh;
-  left: 1vw;
-  width: 75vw;
+  left: 5vw;
+  width: 40vw;
   height: auto;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  font-size: 1vw;
+  font-size: 3vw;
+  background-color: rgba(255, 255, 255, 1); /* Add a background color to make it visible */
+  padding: 2vw;
 }
 
 .skills-section h5 {
@@ -266,7 +268,7 @@ a {
 }
 
 .skills-section ul {
-  width: 70vw;
+  width: 35vw;
   height: auto;
   list-style-type: square;
   font-size: 3vw;
