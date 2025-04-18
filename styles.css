@@ -67,6 +67,9 @@ body {
 .dropdown-item {
     margin-bottom: 1vh;
 }
+.dropdown-item > a {
+  font-size: 0.9vw;
+}
 
 .menu-item:hover {
     transform: scale(1.2); /* Zoom effect */
