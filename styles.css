@@ -43,7 +43,13 @@ body {
     position: relative;
     transition: transform 0.3s ease-in-out;
 }
+.menu-item > a {
+  font-size: 1vw;
+}
 
+.dropdown-item > a {
+  font-size: 0.8vw;
+}
 .menu-item:hover .dropdown {
     display: block;
 }
@@ -62,7 +68,7 @@ body {
     transform: translateX(-50%) scale(1);
     padding: 1px;
     transition: transform 0.2s ease-in-out;
-    font-size: 1vw;
+  
 }
 
 .dropdown-item {
