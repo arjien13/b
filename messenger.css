@@ -182,7 +182,7 @@
   flex-direction: column;
   align-items: center;
  position: absolute;
-  top: 85.5vh; /* Adjust the value to move it up */
+  top: 70vh; /* Adjust the value to move it up */
   left: 95vw;
   overflow: hidden;
 }
@@ -207,7 +207,7 @@
 }
 
 .folder-icon {
-  width: 25vw;
+  width: 20vw;
   height: auto;
   filter: sepia(100%) hue-rotate(120deg) saturate(50%);
 
