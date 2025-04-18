@@ -249,25 +249,24 @@ a {
 /**skills-section*/
 .skills-section-container {
   position: absolute;
-  bottom: 2rem; /* Adjust the distance from the bottom */
-  left: 1rem; /* Adjust the distance from the left */
+  bottom: 0.5rem; /* Move down by decreasing the bottom value */
+  left: 0.5rem; /* Move left by decreasing the left value */
   padding: 2rem;
 }
 
 .skills-section {
-  max-width: 40rem; /* Adjust the maximum width */
-  width: 80%; /* Adjust the width */
+  max-width: 40rem; 
+  width: 80%; 
   padding: 2rem;
   background-color: #fff;
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
-  border-radius: 1rem; /* Optional: add a border radius */
+  border-radius: 1rem; 
 }
 
-/* Optional: Add media queries for better responsiveness on smaller screens */
 @media (max-width: 768px) {
   .skills-section-container {
-    bottom: 2rem;
-    left: 2rem;
+    bottom: 0.5rem; /* Adjust for smaller screens */
+    left: 0.5rem; /* Adjust for smaller screens */
     padding: 1rem;
   }
   .skills-section {
