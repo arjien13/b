@@ -32,9 +32,15 @@
     }
     .menu-item {
       position: relative;
-     transition: transform 0.3s ease-in-out;  
-      font-size: 4em; /* Increase font size */
+     transition: transform 0.3s ease-in-out; 
   }
+  .menu-item > a {
+  font-size: 1vw;
+}
+
+.dropdown-item > a {
+  font-size: 0.8vw;
+}
 
     .intro {
       width: 90vw;
