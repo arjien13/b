@@ -35,11 +35,11 @@
      transition: transform 0.3s ease-in-out; 
   }
   .menu-item > a {
-  font-size: 5vw;
+  font-size: 4.5vw;
 }
 
 .dropdown-item > a {
-  font-size: 4vw;
+  font-size: 3.2vw;
 }
 
     .intro {
