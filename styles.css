@@ -18,7 +18,7 @@ body {
     height: 100vh; /* Set the height to the full viewport height */
     overflow-x: hidden;
     overflow-y: hidden;
-    font-size: 1vw; /* Increased font size */
+ 
     
 }
 
@@ -48,7 +48,7 @@ body {
 }
 
 .dropdown-item > a {
-  font-size: 0.8vw;
+  font-size: 0.9vw;
 }
 .menu-item:hover .dropdown {
     display: block;
