@@ -249,8 +249,8 @@ a {
 /**skills-section*/
 .skills-section-container {
   position: absolute;
-  bottom: 5rem; /* Adjust the distance from the bottom */
-  left: 5rem; /* Adjust the distance from the left */
+  bottom: 2rem; /* Adjust the distance from the bottom */
+  left: 1rem; /* Adjust the distance from the left */
   padding: 2rem;
 }
 
