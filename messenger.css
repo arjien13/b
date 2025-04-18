@@ -249,9 +249,10 @@ a {
 /**skills-section*/
 .skills-section {
   position: absolute;
-  top: 80vh; /* adjust this value to move it up or down */
-  left: 5vw; /* adjust this value to move it left or right */
-  width: 40vw;
+  top: 80vh;
+  left: 5vw;
+  border: 2px solid red; /* add this property */
+  background-color: yellow; /* add this property */
   height: auto;
   display: flex;
   flex-direction: column;
