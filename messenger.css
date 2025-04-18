@@ -248,9 +248,9 @@ a {
 
 /**skills-section*/
 .skills-section {
-  position: absolute;
-  bottom: 5vh;
-  left: 5vw;
+   position: absolute;
+  bottom: 5vh !important;
+  left: 5vw !important;
   width: 40vw;
   height: auto;
   display: flex;
