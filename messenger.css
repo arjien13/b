@@ -247,25 +247,19 @@ a {
 /**folder icon*/
 
 /**skills-section*/
-.skills-section {
-  position: absolute;
-  top: 120vh; /* adjust this value to position it correctly */
-  left: 5vw;
-  width: 40vw;
-  height: auto;
+.skills-section-container {
   display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: flex-start;
-  font-size: 3vw;
-  background-color: rgba(255, 255, 255, 0.5);
-  padding: 2vw;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; /* Use min-height for better responsiveness */
+  padding: 5rem; /* Use rem for padding */
 }
 
-
-
-.skills-section strong {
-  font-weight: 510;
+.skills-section {
+  max-width: 50rem; /* Use rem for max-width */
+  width: 90%; /* Add a percentage-based width for responsiveness */
+  padding: 2rem; /* Use rem for padding */
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1); /* Use rem for box-shadow */
 }
 .my-face {
   position: absolute;
