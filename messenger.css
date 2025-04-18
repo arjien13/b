@@ -13,10 +13,7 @@
       transform: translate(-50%, -50%);
       display: flex;
       justify-content: center;
-      align-items: center;
-     
-    
-     
+      align-items: center; 
     }
 
     .menu {
@@ -43,7 +40,7 @@
 }
 
 .dropdown-item > a {
-  font-size: 0.8vw;
+  font-size: 0.9vw;
 }
 
     .intro {
