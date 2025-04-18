@@ -33,6 +33,7 @@
     .menu-item {
       position: relative;
      transition: transform 0.3s ease-in-out;  
+      font-size: 4em; /* Increase font size */
   }
 
     .intro {
