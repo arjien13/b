@@ -231,7 +231,7 @@
   font-size: 1.5vh;
   left: 12vw;
   transform: translateX(-50%);
-  top: 3vh;
+  top: 1vh;
   font-weight: 500;
   text-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
   white-space: nowrap;
@@ -268,7 +268,7 @@
 .my-image{
   position: absolute;
   top: 1vh; 
-  width: 3vw; /* image width */
+  width: 10vw; /* image width */
   height: auto; /* image height */
 }
 
