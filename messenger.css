@@ -204,6 +204,11 @@
   font-size: .7vw;
   font-weight: 400;
 }
+  .folder-row:nth-child(2) .folder-label:nth-child(1) {
+  position: relative;
+  left: -10px; /* adjust this value to move it to the left */
+  left: -3.9vw; /* increase the negative value to move it to the left */
+}
 
 /**folder icon*/
 
