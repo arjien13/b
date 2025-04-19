@@ -215,9 +215,10 @@
 .skills-section-container {
   position: absolute;
   bottom: 1rem; /* Move down by decreasing the bottom value */
-  left: 0.5rem; /* Move left by decreasing the left value */
+  display: flex;
+  justify-content: center;
   padding: 2rem;
-   max-width: 80%;
+   max-width: 85%;
 }
 
 .skills-section {
