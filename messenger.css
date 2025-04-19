@@ -217,10 +217,6 @@
   bottom: 1rem;
   padding: 2rem;
    max-width: 97%;
-}
-
-.skills-section {
- 
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
 }
   li {
@@ -230,8 +226,8 @@
 @media (max-width: 768px) {
   .skills-section-container {
     bottom: 0.5rem; /* Adjust for smaller screens */
-    left: 0.5rem; /* Adjust for smaller screens */
-    padding: 1rem;
+    left: 1rem; /* Adjust for smaller screens */
+    
   }
 
 }
