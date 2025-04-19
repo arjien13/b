@@ -74,7 +74,7 @@ body {
 .menu-item:hover {
     transform: scale(1.2); /* Zoom effect */
     transition: transform 0.3s ease-in-out;
-    background-color: rgba(0, 0, 0, 0.2);
+    
 }
 
 
@@ -86,7 +86,7 @@ body {
 
 .dropdown a:hover {
     transform: scale(1.1);
-    background-color: rgba(0, 0, 0, 0.2);
+    
     color: #ffffff;
 }
 
