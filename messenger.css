@@ -169,10 +169,7 @@
     height: auto; /* Change height to auto */
     transform: scale(1.1); 
     box-shadow: 0 0 0.5vh rgba(0, 0, 0, 0.1); 
-    padding: 1vh; 
-    
-      
-    
+    padding: 1vh;   
   }
 
 /**folder icon*/
@@ -232,9 +229,9 @@
   .skills-section h5 {
   position: absolute;
   font-size: 1.5vh;
-  left: 10vw;
+  left: 12vw;
   transform: translateX(-50%);
-  top: 6vh;
+  top: 3vh;
   font-weight: 500;
   text-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
   white-space: nowrap;
@@ -271,6 +268,8 @@
 .my-image{
   position: absolute;
   top: 1vh; 
+  width: 3vw; /* image width */
+  height: auto; /* image height */
 }
 
 /**skills-section*/
