@@ -217,7 +217,7 @@
   bottom: 1rem; /* Move down by decreasing the bottom value */
   left: 0.5rem; /* Move left by decreasing the left value */
   padding: 2rem;
-   max-width: 110%;
+   max-width: 100%;
 }
 
 .skills-section {
