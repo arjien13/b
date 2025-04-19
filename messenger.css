@@ -265,10 +265,7 @@
   height: auto; /* image height */
   mix-blend-mode: multiply;
 }
-.my-image {
-  transform: scale(1.2); /* increases size by 20% */
-  transform-origin: center; /* scales from the center */
-}
+
 
 /**skills-section*/
 
