@@ -265,10 +265,8 @@
   height: auto; /* image height */
   mix-blend-mode: multiply;
 }
-.my-image{
-  position: absolute;
-  width: 50vw; /* image width */
-  height: auto; /* image height */
+.my-image {
+  transform: scale(1.5); /* increases size by 20% */
 }
 
 /**skills-section*/
