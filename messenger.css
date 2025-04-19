@@ -215,10 +215,10 @@
 .skills-section-container {
   position: absolute;
   bottom: 1rem; /* Move down by decreasing the bottom value */
-  left: 50%;
+  left: 3;
 
   padding: 2rem;
-   max-width: 90%;
+   max-width: 95%;
 }
 
 .skills-section {
