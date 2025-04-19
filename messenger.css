@@ -217,11 +217,11 @@
   bottom: 0.5rem; /* Move down by decreasing the bottom value */
   left: 0.5rem; /* Move left by decreasing the left value */
   padding: 2rem;
+   max-width: 38%;
 }
 
 .skills-section {
-  max-width: 40rem; 
-  width: 100%; 
+ 
   padding: 2rem;
   background-color: #fff;
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
@@ -234,10 +234,7 @@
     left: 0.5rem; /* Adjust for smaller screens */
     padding: 1rem;
   }
-  .skills-section {
-    width: 90%;
-    padding: 1rem;
-  }
+
 }
 .my-face {
   position: absolute;
