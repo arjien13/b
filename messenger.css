@@ -206,7 +206,7 @@
 }
  .folder-label {
   position: relative;
-  top: -14vw;
+  top: -11vw;
   left: -3.7vw; /* increase the negative value to move it to the left */
   font-size: .7vw;
   font-weight: 400;
@@ -239,6 +239,9 @@
   text-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
   white-space: nowrap;
 }
+  .skills-section strong {
+    font-weight: 450;
+  }
 
 @media (max-width: 768px) {
   .skills-section-container {
