@@ -225,8 +225,8 @@
 
 @media (max-width: 768px) {
   .skills-section-container {
-    bottom: 0.5rem; /* Adjust for smaller screens */
-    left: 1rem; /* Adjust for smaller screens */
+    bottom: 0rem; /* Adjust for smaller screens */
+    left: .3rem; /* Adjust for smaller screens */
     
   }
 
