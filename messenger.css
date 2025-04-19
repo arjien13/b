@@ -260,7 +260,7 @@
 .my-icon {
   position: absolute;
   top: 42vh; /* distance from top */
-  left: 21.5vw; /* distance from left */
+  left: 22.2vw; /* distance from left */
   width: 21vw; /* image width */
   height: auto; /* image height */
   mix-blend-mode: multiply;
