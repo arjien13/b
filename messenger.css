@@ -197,6 +197,13 @@
   width: 23vw; /* Increase the width of the folder icon */
   height: auto; /* Increase the height of the folder icon */
 }
+  .folder-label {
+  position: relative;
+  top: -14.5vw;
+  left: -5vw; /* increase the negative value to move it to the left */
+  font-size: .8vw;
+  font-weight: 400;
+}
 
 /**folder icon*/
 
