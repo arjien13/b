@@ -215,18 +215,17 @@
 .skills-section-container {
   position: absolute;
   bottom: 1rem; /* Move down by decreasing the bottom value */
-  left: 3;
-
+  left: 30;
   padding: 2rem;
    max-width: 95%;
 }
 
 .skills-section {
- 
- 
   background-color: #fff;
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
- 
+}
+  li {
+  margin-bottom: 3px; /* adjust the value as needed */
 }
 
 @media (max-width: 768px) {
