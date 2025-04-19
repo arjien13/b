@@ -252,7 +252,7 @@
   position: absolute;
   top: 37.5vh; /* distance from top */
   left: 7vw; /* distance from left */
-  width: 20vw; /* image width */
+  width: 30vw; /* image width */
   height: auto; /* image height */
   mix-blend-mode: multiply;
 }
@@ -261,7 +261,7 @@
   position: absolute;
   top: 42vh; /* distance from top */
   left: 21.5vw; /* distance from left */
-  width: 18vw; /* image width */
+  width: 25vw; /* image width */
   height: auto; /* image height */
   mix-blend-mode: multiply;
 }
